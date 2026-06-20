@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/288471302?s=400&v=4" alt="AgroVest Logo" width="180" />
+
 # AgroVest
 
 ### Empowering African Agriculture Through Blockchain Investment & Commerce
