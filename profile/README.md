@@ -4,9 +4,9 @@
 
 ### Empowering African Agriculture Through Blockchain Investment & Commerce
 
-[![Website](https://img.shields.io/badge/🌐_Website-Coming_Soon-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agrovest.io)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-@AgroVest-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AgroVest)
-[![Discord](https://img.shields.io/badge/💬_Discord-Join_Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/agrovest)
+[![Website](https://img.shields.io/badge/🌐_Website-Coming_Soon-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@AgroVest-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/💬_Discord-Join_Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
@@ -203,7 +203,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built on [Stellar Soroban](https://soroban.stellar.org/) · Powered by the AVT Token**
 
 *Every African farmer deserves access to global capital, fair markets, and transparent commerce.*
 
